@@ -14,4 +14,3 @@
 - **data_analysis.ipynb**              数据分析
 - **exlpore_potential_user.ipynb**     探索高潜用户行为  
 
-**Note**: 欢迎大家在Issues区提出问题，进行讨论
